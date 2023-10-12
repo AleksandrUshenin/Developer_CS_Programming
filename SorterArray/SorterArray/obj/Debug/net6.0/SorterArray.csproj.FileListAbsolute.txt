@@ -1,0 +1,14 @@
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\bin\Debug\net6.0\SorterArray.exe
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\bin\Debug\net6.0\SorterArray.deps.json
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\bin\Debug\net6.0\SorterArray.runtimeconfig.json
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\bin\Debug\net6.0\SorterArray.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\bin\Debug\net6.0\SorterArray.pdb
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\SorterArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\SorterArray.AssemblyInfoInputs.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\SorterArray.AssemblyInfo.cs
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\SorterArray.csproj.CoreCompileInputs.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\SorterArray.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\refint\SorterArray.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\SorterArray.pdb
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\SorterArray.genruntimeconfig.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\SorterArray\SorterArray\obj\Debug\net6.0\ref\SorterArray.dll
