@@ -1,0 +1,24 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="Grid1" Background="#FF389AAF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80*"/>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="713*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="ButtonSum" Content="Sum" HorizontalAlignment="Left" Margin="47,270,0,0" VerticalAlignment="Top" Height="36" Width="67" Click="ButtonSum_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonSub" Content="Sub" HorizontalAlignment="Left" Margin="157,270,0,0" VerticalAlignment="Top" Height="36" Width="67" Click="ButtonSub_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonMult" Content="Mult" HorizontalAlignment="Left" Margin="267,270,0,0" VerticalAlignment="Top" Height="36" Width="67" RenderTransformOrigin="0.182,0.618" Click="ButtonMult_Click" Grid.Column="2"/>
+        <Button x:Name="ButtonDiv" Content="Div" HorizontalAlignment="Left" Margin="377,270,0,0" VerticalAlignment="Top" Height="36" Width="67" Click="ButtonDiv_Click" Grid.Column="2"/>
+        <Button x:Name="Cansel" Content="Cansel" HorizontalAlignment="Left" Margin="492,270,0,0" VerticalAlignment="Top" Height="36" Width="67" Click="Cansel_Click" Grid.Column="2"/>
+        <Label x:Name="LabelResult" Content="0" HorizontalAlignment="Left" Height="46" Margin="254,104,0,0" VerticalAlignment="Top" Width="172" FontSize="20" SnapsToDevicePixels="True" Grid.Column="2"/>
+        <TextBox Text="" x:Name="TextBoxNumber" HorizontalAlignment="Left" Margin="214,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="46" FontSize="16" RenderTransformOrigin="0.5,0.5" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Height="34" Margin="191,111,0,0" TextWrapping="Wrap" Text="Result :" VerticalAlignment="Top" Width="58" FontSize="18" Grid.Column="2"/>
+    </Grid>
+</Window>
