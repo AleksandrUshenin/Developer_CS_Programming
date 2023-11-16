@@ -37,13 +37,31 @@ namespace Calculator
                 LabelResult.Content = ((CalculatorClass)sender).Result;
                 TextBoxNumber.Text = "";
             }
-            //Console.WriteLine(((CalculatorClass)sender).Result);
+            Console.WriteLine(((CalculatorClass)sender).Result);
         }
         private double GetNum()
         {
             double res = 0;
             double.TryParse(TextBoxNumber.Text, out res);
+            if (!MyDouble.DoubleTryPars(TextBoxNumber.Text, out res))
+            {
+                TextBoxNumber.Background = Brushes.Red;
+                MessageBox.Show("Ошибка преобразования стоки в число!", "Double Try Pars");
+            }
+            else
+                TextBoxNumber.Background = Brushes.White;
             return res;
+        }
+        private bool CheckingNumber(double result)
+        {
+            try
+            {
+                return MyDouble.CheckingForPositiveNumber(result);
+            }
+            catch (Exception ex) 
+            {
+                return false;
+            }
         }
         private void ButtonSum_Click(object sender, RoutedEventArgs e)
         {
@@ -53,7 +71,11 @@ namespace Calculator
 
         private void ButtonSub_Click(object sender, RoutedEventArgs e)
         {
-            calc.Sub(GetNum());
+            double res = GetNum();
+            if (!CheckingNumber(res))
+                MessageBox.Show("Число отрицательное", "Checking For А Positive Number");
+            else
+                calc.Sub(res);
         }
 
         private void ButtonMult_Click(object sender, RoutedEventArgs e)
@@ -68,7 +90,11 @@ namespace Calculator
 
         private void ButtonDiv_Click(object sender, RoutedEventArgs e)
         {
-            calc.Divide(GetNum());
+            double res = GetNum();
+            if (!CheckingNumber(res))
+                MessageBox.Show("Число отрицательное", "Checking For А Positive Number");
+            else
+                calc.Divide(res);
         }
     }
 }
