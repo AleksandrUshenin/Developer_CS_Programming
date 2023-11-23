@@ -1,0 +1,14 @@
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\bin\Debug\net6.0\Lesson_11.exe
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\bin\Debug\net6.0\Lesson_11.deps.json
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\bin\Debug\net6.0\Lesson_11.runtimeconfig.json
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\bin\Debug\net6.0\Lesson_11.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\bin\Debug\net6.0\Lesson_11.pdb
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\Lesson_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\Lesson_11.AssemblyInfoInputs.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\Lesson_11.AssemblyInfo.cs
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\Lesson_11.csproj.CoreCompileInputs.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\Lesson_11.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\refint\Lesson_11.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\Lesson_11.pdb
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\Lesson_11.genruntimeconfig.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Lesson_11\obj\Debug\net6.0\ref\Lesson_11.dll
