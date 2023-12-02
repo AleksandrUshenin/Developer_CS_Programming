@@ -1,0 +1,14 @@
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\bin\Debug\net6.0\Network_1.exe
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\bin\Debug\net6.0\Network_1.deps.json
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\bin\Debug\net6.0\Network_1.runtimeconfig.json
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\bin\Debug\net6.0\Network_1.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\bin\Debug\net6.0\Network_1.pdb
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\Network_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\Network_1.AssemblyInfoInputs.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\Network_1.AssemblyInfo.cs
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\Network_1.csproj.CoreCompileInputs.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\Network_1.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\refint\Network_1.dll
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\Network_1.pdb
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\Network_1.genruntimeconfig.cache
+C:\Users\sasha\GitProgect\AllGitProgect\Developer_CS_Programming\С#Lessons\Network_1\obj\Debug\net6.0\ref\Network_1.dll
